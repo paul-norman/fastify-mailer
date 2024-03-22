@@ -9,7 +9,7 @@ It offers [Nodemailer](https://www.nodemailer.com) instance initialisation and e
 Install the package with:
 
 ```sh
-npm i fastify-mailer
+npm i github:paul-norman/fastify-mailer
 ```
 
 ## Usage
