@@ -20,7 +20,18 @@
 		"mailer",
 		"nodemailer"
 	],
-	"author": "Paul Norman",
+	"author": "",
+	"contributors": [
+		{
+			"name": "Jean-Michel Coghe",
+			"email": "jean.michel.coghe@coopflow.com",
+			"url": "https://github.com/coopflow"
+		},
+		{
+			"name": "Paul Norman",
+			"url": "https://github.com/paul-norman"
+		}
+	],
 	"license": "MIT",
 	"bugs": {
 		"url": "https://github.com/paul-norman/fastify-mailer/issues"
