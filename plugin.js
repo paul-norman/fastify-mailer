@@ -44,6 +44,6 @@ function fastifyMailer(fastify, options, next) {
 }
 
 export default fp(fastifyMailer, {
-	fastify:	'>=4.0.0',
+	fastify:	'>=5.0.0',
 	name:		'fastify-mailer'
 });
